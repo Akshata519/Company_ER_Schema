@@ -37,6 +37,8 @@ Many branches will need to work with suppliers to buy inventory. For each suppli
 	Include the 1 side's primary key as a foreign key on the N side relation (table)
 
 ### Step 5: Mapping of Binary M:N Relationship Types
-	Create a new relation (table) who's primary key is a combination of both entites' primary key's. Also include any relationship attribtes
+	Create a new relation (table) who's primary key is a combination of both entites' primary
+	key's. Also include any relationship attribtes
 
-  <img width="1166" height="722" alt="Screenshot 2026-04-28 153143" src="https://github.com/user-at
+  <img width="1166" height="722" alt="Screenshot 2026-04-28 153143" src="https://github.com/user-attachments/assets/397cb8b6-cc55-4f63-8a24-58c4bb55a403" />
+
